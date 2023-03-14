@@ -1,0 +1,16 @@
+
+| - value: int                            |
+| + MyInteger(value: int)                |
+| + getValue(): int                      |
+| + isEven(): boolean                    |
+| + isOdd(): boolean                     |
+| + isPrime(): boolean                   |
+| + equals(value: int): boolean          |
+| + equals(other: MyInteger): boolean    |
+| + static isEven(value: int): boolean   |
+| + static isOdd(value: int): boolean    |
+| + static isPrime(value: int): boolean  |
+| + static isEven(other: MyInteger): boolean |
+| + static isOdd(other: MyInteger): boolean |
+| + static isPrime(other: MyInteger): boolean |
++----------------------------------------+
