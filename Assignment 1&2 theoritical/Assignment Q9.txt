@@ -1,0 +1,3 @@
+1. The id field is declared as private, which means it cannot be accessed from outside the class.
+
+2.The m2 method attempts to access the id field using the class name Test, which is not allowed since id is an instance variable and not a static variable.

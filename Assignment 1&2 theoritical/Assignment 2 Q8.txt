@@ -1,0 +1,6 @@
+If a method in a subclass has the same signature as a method in its superclass with the same return type, then the method is overridden, not overloaded. When a method in a subclass has the same name, same parameter list, and same return type as a method in its superclass, it overrides the method in the superclass.
+This means that the method in the subclass will be called instead of the method in the superclass when the method is called on an instance of the subclass.
+Overloading, on the other hand, occurs when a class has two or more methods with the same name but different parameters or different return types.
+
+
+

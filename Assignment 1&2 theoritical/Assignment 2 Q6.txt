@@ -1,0 +1,5 @@
+1. (figure a)The output of this program would be "A's no-arg constructor has been called"
+
+
+2.no problem in compiling figure b
+

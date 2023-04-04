@@ -1,0 +1,3 @@
+Yes, it will be a problem.
+The method in the subclass will not be considered as an override of the method in the superclass because the return type is different.
+This will result in a compilation error.
